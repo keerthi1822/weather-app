@@ -1,0 +1,25 @@
+body {
+  background-image: url('weather.png');
+  background-color: rgb(144, 152, 172);
+  margin: auto;
+  padding: auto;
+  border: 1px solid blue;
+  text-align: center;
+}
+.block {
+  background-color: rgb(101, 127, 184);
+  box-sizing: border-box;
+  width: 35%;
+  border-radius: 30px;
+  margin: auto;
+  margin-top: 5%;
+}
+
+.heading {
+  padding-top: 30px;
+  color: whitesmoke;
+}
+.getTemp,
+.yourLOC {
+  color: white;
+}
